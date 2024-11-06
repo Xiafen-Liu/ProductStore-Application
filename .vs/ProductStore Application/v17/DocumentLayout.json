@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xiafe\\Postgradute course in IT\\IFQ 556 Object Oriented Programming\\ProductStore Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA22C12-C4BB-44B2-B904-5C0D2E02F662}|ProductStore Application\\ProductStore Application.csproj|c:\\users\\xiafe\\postgradute course in it\\ifq 556 object oriented programming\\productstore application\\productstore application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA22C12-C4BB-44B2-B904-5C0D2E02F662}|ProductStore Application\\ProductStore Application.csproj|solutionrelative:productstore application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA22C12-C4BB-44B2-B904-5C0D2E02F662}|ProductStore Application\\ProductStore Application.csproj|c:\\users\\xiafe\\postgradute course in it\\ifq 556 object oriented programming\\productstore application\\productstore application\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA22C12-C4BB-44B2-B904-5C0D2E02F662}|ProductStore Application\\ProductStore Application.csproj|solutionrelative:productstore application\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 251,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\xiafe\\Postgradute course in IT\\IFQ 556 Object Oriented Programming\\ProductStore Application\\ProductStore Application\\Product.cs",
+              "RelativeDocumentMoniker": "ProductStore Application\\Product.cs",
+              "ToolTip": "C:\\Users\\xiafe\\Postgradute course in IT\\IFQ 556 Object Oriented Programming\\ProductStore Application\\ProductStore Application\\Product.cs",
+              "RelativeToolTip": "ProductStore Application\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwDkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:11:00.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xiafe\\Postgradute course in IT\\IFQ 556 Object Oriented Programming\\ProductStore Application\\ProductStore Application\\Program.cs",
+              "RelativeDocumentMoniker": "ProductStore Application\\Program.cs",
+              "ToolTip": "C:\\Users\\xiafe\\Postgradute course in IT\\IFQ 556 Object Oriented Programming\\ProductStore Application\\ProductStore Application\\Program.cs",
+              "RelativeToolTip": "ProductStore Application\\Program.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAC8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:10:34.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
